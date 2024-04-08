@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: mono-platfra-batch
+  profiles:
+    active: local
